@@ -1,3 +1,7 @@
+## Note to reviewers 
+The plots are created with transparent backgrounds as the reference plots. The reference plots have transparent background, not white background. You can confirm this by dragging the reference plots with a mouse over the edges of your browser or other objects or compare my plots and those in the original figure folder in Git Hub.
+
+
 ## Introduction
 
 This assignment uses data from
